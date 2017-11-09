@@ -4,13 +4,13 @@ function forLoop(array){
       array[0] = "I am 1 strange loop."
     }
     else{
-      array[i-1] = "I am" + i + "strange loops."
+      array[i-1] = "I am " + i + " strange loops."
     }
   }
   console.log(array);
   return array;
 }
-array = []
+var array = [];
 forLoop(array);
 
 function whileLoop(n){
