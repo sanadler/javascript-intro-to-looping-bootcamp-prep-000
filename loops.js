@@ -3,6 +3,6 @@ function whileLoop(n){
     console.log(n);
     n--;
   }
-  console.log('done');
+  console.log("done");
   return;
 }
