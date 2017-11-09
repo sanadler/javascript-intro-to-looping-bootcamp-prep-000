@@ -4,4 +4,5 @@ function whileLoop(n){
     n--;
   }
   console.log('done');
+  return;
 }
