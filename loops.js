@@ -4,7 +4,7 @@ function forLoop(array){
       array[0] = "I am 1 strange loop."
     }
     else{
-      array[i] = "I am" + i + "strange loops."
+      array[i-1] = "I am" + i-1 + "strange loops."
     }
   }
   return array;
