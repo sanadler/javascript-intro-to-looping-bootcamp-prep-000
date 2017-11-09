@@ -9,8 +9,6 @@ function forLoop(array){
   }
   return array;
 }
-var array = [];
-forLoop(array);
 
 function whileLoop(n){
   while (n>0){
