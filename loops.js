@@ -5,5 +5,3 @@ function whileLoop(n){
   }
   console.log('done');
 }
-
-whileLoop(10);
